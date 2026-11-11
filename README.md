@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! I'm Nadezhda 👋
 
-<!--
-**NadezhdaOladko/NadezhdaOladko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Python Backend Developer
 
-Here are some ideas to get you started:
+I'm learning backend development with Python and building practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+- **Language:** Python
+- **Backend:** Flask, REST API
+- **Databases:** SQLite, SQLAlchemy
+- **Tools:** Git, GitHub, Postman, Docker
+
+### 📚 Currently learning
+
+- SQLAlchemy ORM
+- PostgreSQL
+- Backend application architecture
+- Automated testing with pytest
+
+### 🚀 My Projects
+
+Projects will be added here as I develop and improve them.
+
+### 🎯 My Goal
+
+To become a professional Python Backend Developer and build reliable, maintainable applications.

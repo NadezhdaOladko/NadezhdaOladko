@@ -1,27 +1,35 @@
 # Hi there! I'm Nadezhda 👋
 
-### Aspiring Python Backend Developer
+### Junior Python Backend Developer
 
-I'm learning backend development with Python and building practical projects.
+I'm focused on backend development with Python.
+I enjoy building REST APIs, working with databases
+and learning how to design reliable applications.
 
-### 🛠 Tech Stack
+### 🛠 Technologies & Tools
 
-- **Language:** Python
-- **Backend:** Flask, REST API
-- **Databases:** SQLite, SQLAlchemy
-- **Tools:** Git, GitHub, Postman, Docker
+**Programming:** Python
+
+**Backend:** Flask, REST API
+
+**Databases:** SQLite, SQLAlchemy ORM
+
+**Tools:** Git, GitHub, Postman, Docker
 
 ### 📚 Currently learning
 
-- SQLAlchemy ORM
 - PostgreSQL
-- Backend application architecture
-- Automated testing with pytest
+- Pytest
+- Alembic
+- Backend architecture
+- FastAPI
 
-### 🚀 My Projects
+### 🚀 Featured Projects
 
-Projects will be added here as I develop and improve them.
+Coming soon! I'm currently improving my projects
+and preparing them for my developer portfolio.
 
 ### 🎯 My Goal
 
-To become a professional Python Backend Developer and build reliable, maintainable applications.
+To grow as a Python Backend Developer
+and build clean, maintainable and reliable applications.

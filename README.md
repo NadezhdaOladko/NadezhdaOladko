@@ -26,8 +26,9 @@ and learning how to design reliable applications.
 
 ### 🚀 Featured Projects
 
-Coming soon! I'm currently improving my projects
-and preparing them for my developer portfolio.
+**[Movie Search Bot](https://github.com/NadezhdaOladko/movie-search-bot)**
+
+A Telegram bot for searching movies and exploring movie information using the TMDb API.
 
 ### 🎯 My Goal
 
